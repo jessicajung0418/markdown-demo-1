@@ -18,3 +18,6 @@ var a = 1
 console.log(a)
 ```
 
+我的网站 [百度链接](https://baidu.com)
+
+![猫猫图片](mao.jpg)
